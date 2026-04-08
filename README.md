@@ -12,8 +12,8 @@ We present a deep learning pipeline for detecting signatures of eternal inflatio
 ## Installation
 
 ```bash
-git clone https://github.com/OWNER/cmb-multiverse-dl.git
-cd cmb-multiverse-dl
+git clone https://github.com/sekandarmatin/deep-learning-multiverse-cmb.git
+cd deep-learning-multiverse-cmb
 pip install -r requirements.txt
 ```
 
